@@ -25,7 +25,7 @@ This project is a full-featured backend service that exposes a REST API using Sp
 
 | Technology | Version | Purpose |
 |---|---|---|
-| Java | 21 | Core language |
+| Java | 17 | Core language |
 | Spring Boot | Latest | Application framework |
 | Spring MVC | — | REST API layer |
 | Spring Data JPA | — | Database abstraction |
@@ -71,7 +71,7 @@ This project is a full-featured backend service that exposes a REST API using Sp
 
 ### Prerequisites
 
-- [Java 21](https://adoptium.net/)
+- [Java 17](https://adoptium.net/)
 - [Docker & Docker Compose](https://www.docker.com/)
 - [Maven](https://maven.apache.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) _(recommended)_
